@@ -1,0 +1,22 @@
+{
+  "name": "squirtle",
+  "description": "Squirtle, known as the Tiny Turtle Pokémon, are turtle Pokémon with large eyes and chubby cheeks, capable of moving either on two feet or on all fours. Their skin is a light blue, and they possess a long, curled tail.",
+  "ability": "torrent, hidden ability",
+  "image": "https://e7.pngegg.com/pngimages/871/408/png-clipart-squirtle-ash-ketchum-pikachu-pokemon-pikachu-marine-mammal-vertebrate.png",
+  "footprint": "https://pm1.narvii.com/5784/b92f42c942b9a4f6abc19ac88871cd1c8131b506_hq.jpg",
+  "type": "water",
+  "subtype": "undefined",
+  "weaknesses": "electric and grass",
+  "gender": "87,5% male, 12,5% female",
+  "weight": 9,
+  "height": 50,
+  "generation": 1,
+  "spilversion": 1,
+  "canEvolve": "true",
+  "statsHP": 3,
+  "statsAttack": 3,
+  "statsDefence": 3,
+  "statsSpecialAttack": 3,
+  "statsSpecialDefence": 4,
+  "statsSpeed": 3
+}
